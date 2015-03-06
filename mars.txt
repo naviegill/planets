@@ -6,3 +6,4 @@ I removed the line you added, collaborator!
 I just type something to change it...
 
 Time to teach conflicts and merging.
+I, the owner push first.
